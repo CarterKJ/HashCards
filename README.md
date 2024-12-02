@@ -71,7 +71,7 @@ HashCards was not designed to be self-hosted. If you are looking to self-host a 
 
 ---
 
-<p align="center">&copy; James Adair 2023.</p>
+<p align="center">&copy; James Adair 2024.</p>
 
 ---
 
